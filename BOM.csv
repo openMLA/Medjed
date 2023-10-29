@@ -1,0 +1,47 @@
+Name,Manufacturer,Manufacturer Number,Supplier,Supplier Number,Quantity,Price Total,Optional,Comments
+30mm cage plate Metric,,,Thorlabs,CP33/M,2.0,42.0,,
+"Biconvex lens MARKER/AUTOFOCUS illumination 1""",,,Thorlabs,LB1757-A,1.0,45.48,,Placeholder
+"Biconvex lens WLM illumination 1""",,,Thorlabs,LB1757-A,1.0,45.48,WLM,Placeholder. For white light module
+"Cold mirror 1""",,,Thorlabs,FM04,1.0,51.9,,
+Emergency Off button,IDEC,YW1B-V4E02R,RS components,168-2546,1.0,18.48,EXTRA,
+"Enconomy Beamsplitter 1""",,,Thorlabs,EBS1,2.0,82.0,,
+LED illumination,,,Adafruit,1643,1.0,9.0,BSA,Very preliminary pick; may need a simple custom board
+LED illumination board MARKER/AUTOFOCUS,,,tbd,tbd,1.0,40.0,,Placeholder
+LED illumination board WLM,,,tbd,tbd,1.0,40.0,WLM,Placeholder. For white light module
+Light tunnel MARKER/AUTOFOCUS,,,tbd,tbd,1.0,18.0,,Placeholder
+Light tunnel WLM,,,tbd,tbd,1.0,18.0,WLM,Placeholder. For white light module
+M3 heat inserts,,,3DJAKE,ISP-GWEM3,4.0,5.69,,50 piece set; for vacuum region selection
+M4 Inbus bolt 10mm,,,Generic,XX001,65.0,12.5,,
+M4 Inbus nut,,,Generic,XX002,25.0,1.25,,
+M4 Setscrews,,,Thorlabs,SS4MS5,1.0,6.35,,pack of 50 setscrews
+M4 heat inserts,Ruthex,,3DJAKE,RUT-GE-M4x81-001,4.0,9.5,,For attaching stage
+M5 heat inserts,Ruthex,,3DJAKE,RUT-GE-M5x95-001,1.0,10.0,,For vacuum fitting; pack of 50; ask a friend if they have something like it to save some money
+MGN9H linear carriage  and 50mm rail,,,Fermio.xyz,FLG-MGN-09H-50-SUS,1.0,15.0,,Equivalents from other brands (better or cheaper) should work just fine
+Motic 10X Objective  RedLine200,Motic,12220181,astroshop.be,567HJ,1.0,39.0,BSA,Finite conjugate
+Olympus 10X PlanC N,Olympus/Evident,,Astroshop.be,49913,1.0,196.0,,Alternatively you can get the Japan-made version for ~400; optical design should be identical
+Omron Micro Switch,Omron,D2F-01F-D,Mouser,653-D2F-01F-D,1.0,0.98,,For interlock. Also available at RS at MOQ 5
+Optical cage rods 6mm,,,Thorlabs,ER12 ,4.0,80.0,,
+Photon Ultra,Anycubic,42700000000000.0,3dprima,27344,1.0,330.0,,To salvage DMD unit from
+Pi Camera V2.1 noIR,Raspberry Pi,-,Kiwi Electronics,KW-1703,1.0,28.95,BSA,
+Polyimide hinges,Pinet,54-A-3031,RS components,407-6950,2.0,17.0,,
+RLS encoder RLC2IC,,,RLS,RLC2ICA13BB13A00,3.0,245.85000000000002,,
+RLS magnetic tape 210mm with ref mark,,,RLS,MS05DM210AM027,2.0,70.76,,
+RLS magnetic tape MS - 26mm,,,RLS,MS05DM026AM010,1.0,19.0,,26mm with reference mark at 10mm. Back adhesive pre-applied.
+Raspberry Pi global shutter camera,Raspberry Pi,,Kiwi Electronics,KW-3146,1.0,60.0,,C/CS mount is preferred
+Raspberry Pi high quality camera,Raspberry Pi,,Kiwi Electronics,KW-2906,1.0,60.0,,C/CS mount is preferred
+SLS printed parts | fine z-axis,,,Vormz.nl,,1.0,24.0,,Price is approximation and might be higher depending on supplier of choice
+"Silver mirror 1""",,,Thorlabs,ME1-P01,1.0,36.95,,
+"Silver mirror WLM 1"" ",,,Thorlabs,ME1-P01,1.0,36.95,WLM,For white light module
+Small non-captive stepper ,,,Stepperonline,28LN24L01-233,1.0,14.75,,
+Snapmaker axis splitter (converter),Snapmaker,,3D Jake,SM-B.1.H.A.0001-01,2.0,25.98,,Splits step/dir and can bus between two axes (for coarse Z axis)
+Snapmaker linear axis 2.0 A150 for X and Y ,Snapmaker,,123-3D,DAR00374,4.0,480.0,,For now only the 250mm version is available; design is built around the 168mm variant
+Snapmaker power supply,Snapmaker,,3D Jake,SM-B.1.B.A.0002-01,1.0,69.0,,Price seems to fluctuate; see if you can pick it up for <90 otherwise pick up the internal supply directly (see other entry in BOM)
+Tetra APS150 pump,Tetra,,Amazon.de,,1.0,17.0,,Stage vacuum pump when diaphragm is reversed; point for future improvement
+"Tube lens DMD 1"" 80mm",,,Thorlabs,AC254-080-A,1.0,96.07,,
+"Tube lens MARKER/AUTOFOCUS 1"" 60mm",,,Thorlabs,AC254-060-A,1.0,96.07,,
+"Tube lens WLM 1"" 75mm",,,Thorlabs,AC254-075-A,1.0,96.07,WLM,For white light module
+,,,,,,,,
+Base Price,,,,,,2279.08,,
+WLM additional cost,,,,,,236.5,,
+EXTRA additional cost,,,,,,18.48,,
+BSA additional cost,,,,,,76.95,,

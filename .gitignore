@@ -1,0 +1,10 @@
+*.FCStd1
+*.FCStd.*
+manuals/*
+*.afdesign
+*.3mf
+*.stl
+media/freecad-images/*
+**/temp/*
+*.step
+

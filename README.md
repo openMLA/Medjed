@@ -1,9 +1,3 @@
-> [!important]
->
-> This repository has been rebased, making prior history unavailable in this repository. This was done as part of a move to a more scalable future for the repository, where CAD files are managed with git-annex and PCB files are in their own submodule. To get rid of the historical bloat the prior history had to be purged. It can still be accessed at [the medjed archive](https://github.com/openMLA/medjed-archive) or upon email request.
-
-
-
 ![medjed_banner](media/medjed_banner.jpg)
 
 

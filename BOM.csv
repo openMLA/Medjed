@@ -6,10 +6,8 @@ Name,Manufacturer,Manufacturer Number,Supplier,Supplier Number,Quantity,Price To
 Emergency Off button,IDEC,YW1B-V4E02R,RS components,168-2546,1.0,18.48,EXTRA,
 "Enconomy Beamsplitter 1""",,,Thorlabs,EBS1,2.0,82.0,,
 LED illumination,,,Adafruit,1643,1.0,9.0,BSA,Very preliminary pick; may need a simple custom board
-LED illumination board MARKER/AUTOFOCUS,,,tbd,tbd,1.0,40.0,,Placeholder
-LED illumination board WLM,,,tbd,tbd,1.0,40.0,WLM,Placeholder. For white light module
-Light tunnel MARKER/AUTOFOCUS,,,tbd,tbd,1.0,18.0,,Placeholder
-Light tunnel WLM,,,tbd,tbd,1.0,18.0,WLM,Placeholder. For white light module
+LED illumination board MARKER/AUTOFOCUS,Adafruit,2226.0,Kiwi Electronics,ADA-2226,1.0,7.5,,Placeholder
+LED illumination board WLM,Adafruit,2226.0,Kiwi Electronics,ADA-2226,1.0,7.5,WLM,Placeholder. For white light module
 M3 heat inserts,,,3DJAKE,ISP-GWEM3,4.0,5.69,,50 piece set; for vacuum region selection
 M4 Inbus bolt 10mm,,,Generic,XX001,65.0,12.5,,
 M4 Inbus nut,,,Generic,XX002,25.0,1.25,,
@@ -41,7 +39,7 @@ Tetra APS150 pump,Tetra,,Amazon.de,,1.0,17.0,,Stage vacuum pump when diaphragm i
 "Tube lens MARKER/AUTOFOCUS 1"" 60mm",,,Thorlabs,AC254-060-A,1.0,96.07,,
 "Tube lens WLM 1"" 75mm",,,Thorlabs,AC254-075-A,1.0,96.07,WLM,For white light module
 ,,,,,,,,
-Base Price,,,,,,2279.08,,
-WLM additional cost,,,,,,236.5,,
+Base Price,,,,,,2228.5800000000004,,
+WLM additional cost,,,,,,186.0,,
 EXTRA additional cost,,,,,,18.48,,
 BSA additional cost,,,,,,76.95,,
